@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "rawinput",
+    "name": "RawInput",
+    "description": "Raw mouse input for 1.8.9. Reads the mouse directly so Windows pointer acceleration doesn't mess with your aim.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "https://github.com/falnia/RawInput",
+    "authorList": ["falnia"]
+  }
+]
