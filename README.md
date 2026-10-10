@@ -2,6 +2,8 @@
 
 Raw mouse input for Minecraft 1.8.9 Forge, same idea as the raw input option in Lunar/Badlion.
 
+Why another one? I went through a bunch of raw input mods for 1.8.9 and most of them were either broken, outdated or just didn't do anything on my setup. So I wrote my own that actually works.
+
 Vanilla 1.8.9 gets mouse movement through Windows, so if "Enhance pointer precision" is on (or some other software is messing with the cursor) your sens isn't 1:1 with your hand. This mod reads the mouse directly and feeds that into the game instead.
 
 ## Install
